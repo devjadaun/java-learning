@@ -15,6 +15,7 @@ This repo contains beginner-friendly Java programs with proper comments and exam
 ✔ String (Reference Data Type)  
 ✔ If-Else Conditions  
 ✔ Basic Output Formatting  
+✔ User Input Using Scanner
 
 ---
 
@@ -25,19 +26,27 @@ Simple Java program to print output on screen.
 
 ### 🔹 Variable.java
 Covers:
-- Variable declaration & assignment  
-- Data types  
-- Boolean conditions  
-- String concatenation  
-- Real-life examples  
+- Variable declaration & assignment
+- Data types
+- Boolean conditions
+- String concatenation
+- Real-life examples
+
+### 🔹 Userinput.java
+Covers:
+- Taking input from user
+- Scanner class usage
+- String, int, double, boolean input
+- Area of rectangle calculation
+- Conditional statements
 
 ---
 
 ## 🛠 Tools Used
 
-- IntelliJ IDEA  
-- Java JDK  
-- Git & GitHub  
+- IntelliJ IDEA
+- Java JDK
+- Git & GitHub
 
 ---
 
@@ -45,10 +54,10 @@ Covers:
 
 My goal is to:
 
-- Learn Java fundamentals  
-- Practice daily coding  
-- Improve problem-solving skills  
-- Build strong programming basics  
+- Learn Java fundamentals
+- Practice daily coding
+- Improve problem-solving skills
+- Build strong programming basics
 
 ---
 
@@ -56,12 +65,11 @@ My goal is to:
 
 I will add:
 
-- User input programs  
-- Loops  
-- Methods & Functions  
-- Arrays  
-- OOP Concepts  
-- Mini Java Projects  
+- Loops
+- Methods & Functions
+- Arrays
+- OOP Concepts
+- Mini Java Projects
 
 ---
 
