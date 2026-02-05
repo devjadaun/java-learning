@@ -55,12 +55,19 @@ Covers:
 - Modulus operator
 - Integer vs decimal division
 
-### 🔹 ShoppingCart.java
-Mini project that:
-- Shows basic cart behavior
-- Lets user add items, view totals, or display cart summary
-- Practices use of loops, arrays or lists, and user interaction
-- A step toward building larger console applications
+### 🔹 Shoppingcart.java
+Console-based mini project that:
+
+- Takes **item name, price, and quantity** from the user
+- Calculates the **total cost** using arithmetic operations
+- Displays a **purchase summary with Indian Rupee (₹) currency**
+- Demonstrates practical use of:
+    - Scanner input
+    - Variables & data types
+    - Arithmetic operators
+    - Basic output formatting
+
+This project simulates a **simple real-life shopping cart calculation** in Java.
 
 ---
 
