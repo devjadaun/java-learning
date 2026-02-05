@@ -13,10 +13,11 @@ This repo contains beginner-friendly Java programs with proper comments, example
 ✔ Variables & Data Types
 ✔ Primitive Data Types (int, double, char, boolean)
 ✔ String (Reference Data Type)
-✔ **If Statement & Conditions**
+✔ If Statement & Conditions
 ✔ Basic Output Formatting
 ✔ User Input Using Scanner
 ✔ Arithmetic Operators
+✔ Random Numbers & Math Class
 ✔ Mini Project – Mad Libs Game
 ✔ Mini Project – Shopping Cart
 
@@ -55,7 +56,27 @@ Covers:
 * Basic **if condition logic**
 * Decision making in Java
 * Boolean expressions and comparisons
-* Foundation for loops and programs
+
+### 🔹 RandomNumber.java *(or similar)*
+
+Covers:
+
+* Generating **random numbers**
+* Using Java’s random utilities
+* Simple number-based logic
+
+### 🔹 MathClassDemo.java *(or similar)*
+
+Covers:
+
+* Using **Math class methods** like:
+
+    * `Math.max()`
+    * `Math.min()`
+    * `Math.sqrt()`
+    * `Math.round()`
+    * `Math.pow()`
+* Performing mathematical calculations in Java
 
 ### 🔹 MadLibsGame.java
 
@@ -72,11 +93,7 @@ Console mini project that:
 * Takes **item, price, and quantity** from the user
 * Calculates **total cost**
 * Displays purchase summary with **₹ currency**
-* Demonstrates real-life use of:
-
-    * Scanner input
-    * Arithmetic operations
-    * Output formatting
+* Demonstrates real-life use of Scanner, arithmetic operations, and formatting
 
 ---
 
