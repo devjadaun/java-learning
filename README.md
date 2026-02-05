@@ -15,7 +15,8 @@ This repo contains beginner-friendly Java programs with proper comments and exam
 ✔ String (Reference Data Type)  
 ✔ If-Else Conditions  
 ✔ Basic Output Formatting  
-✔ User Input Using Scanner
+✔ User Input Using Scanner  
+✔ Mini Project – Mad Libs Game
 
 ---
 
@@ -39,6 +40,12 @@ Covers:
 - String, int, double, boolean input
 - Area of rectangle calculation
 - Conditional statements
+
+### 🔹 MadLibsGame.java
+Mini interactive project that:
+- Takes multiple words as input
+- Builds a funny/custom story
+- Demonstrates real use of **user input + strings**
 
 ---
 
@@ -69,7 +76,7 @@ I will add:
 - Methods & Functions
 - Arrays
 - OOP Concepts
-- Mini Java Projects
+- More Mini Java Projects
 
 ---
 
