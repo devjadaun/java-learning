@@ -1,23 +1,23 @@
 # ☕ Java Learning Journey
 
-Hi 👋  
+Hi 👋
 I am learning **Java Programming** step by step and pushing my daily practice code to this repository.
 
-This repo contains beginner-friendly Java programs with proper comments, examples, and small mini‑projects.
+This repo contains beginner-friendly Java programs with proper comments, examples, and small mini-projects.
 
 ---
 
 ## 📚 Topics Covered
 
-✔ Hello World Program  
-✔ Variables & Data Types  
-✔ Primitive Data Types (int, double, char, boolean)  
-✔ String (Reference Data Type)  
-✔ If‑Else Conditions  
-✔ Basic Output Formatting  
-✔ User Input Using Scanner  
-✔ Arithmetic Operators  
-✔ Mini Project – Mad Libs Game  
+✔ Hello World Program
+✔ Variables & Data Types
+✔ Primitive Data Types (int, double, char, boolean)
+✔ String (Reference Data Type)
+✔ **If Statement & Conditions**
+✔ Basic Output Formatting
+✔ User Input Using Scanner
+✔ Arithmetic Operators
+✔ Mini Project – Mad Libs Game
 ✔ Mini Project – Shopping Cart
 
 ---
@@ -25,57 +25,66 @@ This repo contains beginner-friendly Java programs with proper comments, example
 ## 🧑‍💻 Programs Included
 
 ### 🔹 Main.java
+
 Simple Java program to print output on the screen.
 
 ### 🔹 Variable.java
+
 Covers:
-- Variable declaration & assignment
-- Different data types
-- Boolean conditions
-- String concatenation
-- Real-life examples
+
+* Variable declaration & assignment
+* Different data types
+* Boolean conditions
+* String concatenation
+* Real-life examples
 
 ### 🔹 Userinput.java
+
 Covers:
-- Taking input from the user
-- Scanner class usage
-- String, int, double, boolean input
-- Area of rectangle calculation
-- Conditional statements
+
+* Taking input from the user
+* Scanner class usage
+* String, int, double, boolean input
+* Area calculation
+* Conditional statements
+
+### 🔹 IfStatement.java *(or similar)*
+
+Covers:
+
+* Basic **if condition logic**
+* Decision making in Java
+* Boolean expressions and comparisons
+* Foundation for loops and programs
 
 ### 🔹 MadLibsGame.java
+
 Mini interactive project that:
-- Takes multiple words as input
-- Builds a funny/custom story
-- Demonstrates real use of **user input + strings**
 
-### 🔹 ArithmeticDemo.java *(or similar)*
-Covers:
-- Addition, subtraction, multiplication, division
-- Modulus operator
-- Integer vs decimal division
+* Takes multiple words as input
+* Builds a funny/custom story
+* Demonstrates real use of **user input + strings**
 
-### 🔹 Shoppingcart.java
-Console-based mini project that:
+### 🔹 ShoppingCart.java
 
-- Takes **item name, price, and quantity** from the user
-- Calculates the **total cost** using arithmetic operations
-- Displays a **purchase summary with Indian Rupee (₹) currency**
-- Demonstrates practical use of:
-    - Scanner input
-    - Variables & data types
-    - Arithmetic operators
-    - Basic output formatting
+Console mini project that:
 
-This project simulates a **simple real-life shopping cart calculation** in Java.
+* Takes **item, price, and quantity** from the user
+* Calculates **total cost**
+* Displays purchase summary with **₹ currency**
+* Demonstrates real-life use of:
+
+    * Scanner input
+    * Arithmetic operations
+    * Output formatting
 
 ---
 
 ## 🛠 Tools Used
 
-- IntelliJ IDEA
-- Java JDK
-- Git & GitHub
+* IntelliJ IDEA
+* Java JDK
+* Git & GitHub
 
 ---
 
@@ -83,11 +92,11 @@ This project simulates a **simple real-life shopping cart calculation** in Java.
 
 My goal is to:
 
-- Learn Java fundamentals step by step
-- Practice coding daily
-- Improve problem-solving skills
-- Build strong programming basics
-- Create small Java projects
+* Learn Java fundamentals step by step
+* Practice coding daily
+* Improve problem-solving skills
+* Build strong programming basics
+* Create small Java projects
 
 ---
 
@@ -95,12 +104,12 @@ My goal is to:
 
 I will add:
 
-- Assignment & comparison operators
-- Loops (for, while, do‑while)
-- Methods and functions
-- Arrays & strings in depth
-- Object-Oriented Programming (OOP)
-- More mini Java projects
+* Comparison & logical operators
+* Loops (for, while, do-while)
+* Methods and functions
+* Arrays & strings in depth
+* Object-Oriented Programming (OOP)
+* More mini Java projects
 
 ---
 
