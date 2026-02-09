@@ -18,6 +18,7 @@ This repo contains beginner-friendly Java programs with proper comments, example
 ✔ User Input Using Scanner
 ✔ Arithmetic Operators
 ✔ Random Numbers & Math Class
+✔ **Compound Interest Calculation**
 ✔ Mini Project – Mad Libs Game
 ✔ Mini Project – Shopping Cart
 
@@ -49,7 +50,7 @@ Covers:
 * Area calculation
 * Conditional statements
 
-### 🔹 IfStatement.java *(or similar)*
+### 🔹 IfStatement.java
 
 Covers:
 
@@ -57,34 +58,41 @@ Covers:
 * Decision making in Java
 * Boolean expressions and comparisons
 
-### 🔹 RandomNumber.java *(or similar)*
+### 🔹 RandomNumber.java
 
 Covers:
 
 * Generating **random numbers**
-* Using Java’s random utilities
 * Simple number-based logic
 
-### 🔹 MathClassDemo.java *(or similar)*
+### 🔹 MathClassDemo.java
 
 Covers:
 
-* Using **Math class methods** like:
+* Using **Math class methods** such as:
 
-    * `Math.max()`
-    * `Math.min()`
-    * `Math.sqrt()`
-    * `Math.round()`
-    * `Math.pow()`
-* Performing mathematical calculations in Java
+  * `Math.max()`
+  * `Math.min()`
+  * `Math.sqrt()`
+  * `Math.round()`
+  * `Math.pow()`
+
+### 🔹 CompoundInterestCalculator.java
+
+Mini program that:
+
+* Takes **principal, rate, and time** as input
+* Uses **Math.pow()** to calculate compound interest
+* Displays **final amount and interest earned**
+* Demonstrates real-world financial calculation using Java
 
 ### 🔹 MadLibsGame.java
 
-Mini interactive project that:
+Interactive mini project that:
 
 * Takes multiple words as input
 * Builds a funny/custom story
-* Demonstrates real use of **user input + strings**
+* Demonstrates practical use of **strings and user input**
 
 ### 🔹 ShoppingCart.java
 
@@ -93,7 +101,7 @@ Console mini project that:
 * Takes **item, price, and quantity** from the user
 * Calculates **total cost**
 * Displays purchase summary with **₹ currency**
-* Demonstrates real-life use of Scanner, arithmetic operations, and formatting
+* Demonstrates Scanner input, arithmetic operations, and formatting
 
 ---
 
