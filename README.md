@@ -14,11 +14,12 @@ This repo contains beginner-friendly Java programs with proper comments, example
 ✔ Primitive Data Types (int, double, char, boolean)
 ✔ String (Reference Data Type)
 ✔ If Statement & Conditions
+✔ **Nested If Conditions**
 ✔ Basic Output Formatting
 ✔ User Input Using Scanner
 ✔ Arithmetic Operators
 ✔ Random Numbers & Math Class
-✔ **Compound Interest Calculation**
+✔ Compound Interest Calculation
 ✔ Mini Project – Mad Libs Game
 ✔ Mini Project – Shopping Cart
 
@@ -57,6 +58,15 @@ Covers:
 * Basic **if condition logic**
 * Decision making in Java
 * Boolean expressions and comparisons
+
+### 🔹 NestedIf.java
+
+Covers:
+
+* **Nested decision making** using an if statement inside another if
+* Multiple condition checking
+* Real-life style logical branching
+* Foundation for complex program logic
 
 ### 🔹 RandomNumber.java
 
@@ -129,7 +139,6 @@ My goal is to:
 
 I will add:
 
-* Comparison & logical operators
 * Loops (for, while, do-while)
 * Methods and functions
 * Arrays & strings in depth
