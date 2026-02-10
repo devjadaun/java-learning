@@ -21,8 +21,10 @@ This repository contains **beginner-friendly Java programs**, clear comments, an
 ✔ Random Numbers & Math Class
 ✔ Compound Interest Calculation
 ✔ Substring & Email Parsing
+✔ Menu-Driven Programs
 ✔ Mini Project – Mad Libs Game
 ✔ Mini Project – Shopping Cart
+✔ Utility Program – Weight Converter
 
 ---
 
@@ -39,7 +41,7 @@ Simple Java program to print output on the screen.
 Covers:
 
 * Variable declaration & assignment
-* Different primitive data types
+* Primitive data types
 * Boolean conditions
 * String concatenation
 * Real-life examples
@@ -50,10 +52,10 @@ Covers:
 
 Covers:
 
-* Taking input from the user using **Scanner**
+* Taking input using **Scanner**
 * Reading String, int, double, and boolean values
 * Area calculation example
-* Conditional statements with user data
+* Conditional logic with user data
 
 ---
 
@@ -160,6 +162,18 @@ Console-based mini project that:
   * Scanner input
   * Arithmetic operators
   * Output formatting
+
+---
+
+### 🔹 WeightConverter.java
+
+Menu-driven utility program that:
+
+* Converts **pounds ↔ kilograms**
+* Accepts **user choice and weight input**
+* Uses **if-else decision logic**
+* Displays formatted result using **`printf`**
+* Demonstrates a **real-world console conversion tool**
 
 ---
 
