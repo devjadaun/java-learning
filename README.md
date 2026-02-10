@@ -3,7 +3,7 @@
 Hi 👋
 I am learning **Java Programming** step by step and pushing my daily practice code to this repository.
 
-This repo contains beginner-friendly Java programs with proper comments, examples, and small mini-projects.
+This repository contains **beginner-friendly Java programs**, clear comments, and small **console-based mini projects** that help build strong programming fundamentals.
 
 ---
 
@@ -16,11 +16,11 @@ This repo contains beginner-friendly Java programs with proper comments, example
 ✔ String Methods
 ✔ If Statement & Conditions
 ✔ Nested If Conditions
-✔ Basic Output Formatting
 ✔ User Input Using Scanner
 ✔ Arithmetic Operators
 ✔ Random Numbers & Math Class
 ✔ Compound Interest Calculation
+✔ Substring & Email Parsing
 ✔ Mini Project – Mad Libs Game
 ✔ Mini Project – Shopping Cart
 
@@ -32,33 +32,40 @@ This repo contains beginner-friendly Java programs with proper comments, example
 
 Simple Java program to print output on the screen.
 
+---
+
 ### 🔹 Variable.java
 
 Covers:
 
 * Variable declaration & assignment
-* Different data types
+* Different primitive data types
 * Boolean conditions
 * String concatenation
 * Real-life examples
+
+---
 
 ### 🔹 Userinput.java
 
 Covers:
 
-* Taking input from the user
-* Scanner class usage
-* String, int, double, boolean input
-* Area calculation
-* Conditional statements
+* Taking input from the user using **Scanner**
+* Reading String, int, double, and boolean values
+* Area calculation example
+* Conditional statements with user data
+
+---
 
 ### 🔹 IfStatement.java
 
 Covers:
 
 * Basic **if condition logic**
-* Decision making in Java
+* Decision-making in Java
 * Boolean expressions and comparisons
+
+---
 
 ### 🔹 NestedIf.java
 
@@ -66,28 +73,51 @@ Covers:
 
 * **Nested decision making** using an if inside another if
 * Multiple condition checking
-* Logical branching in programs
+* Logical branching used in real programs
+
+---
 
 ### 🔹 StringMethod.java
 
-Demonstrates commonly used **String methods** in Java:
+Demonstrates commonly used **String methods**:
 
 * `length()`
 * `charAt()`
 * `indexOf()` and `lastIndexOf()`
-* `toUpperCase()` and `toLowerCase()`
-* `trim()` and `replace()`
-* `isEmpty()`, `contains()`, `equalsIgnoreCase()`
+* `toUpperCase()` / `toLowerCase()`
+* `trim()` / `replace()`
+* `isEmpty()` / `contains()` / `equalsIgnoreCase()`
 
-Helps understand **string processing and validation logic**.
+Helps understand **string validation and processing**.
+
+---
+
+### 🔹 Substrings.java
+
+Program that demonstrates **substring extraction**:
+
+* Takes an **email address** as input
+* Uses `substring()` and `indexOf()` to split:
+
+  * Username
+  * Domain
+* Validates correct placement of `@`
+* Shows **real-world string parsing logic**
+
+---
 
 ### 🔹 RandomNumber.java
 
-Covers generating **random numbers** and simple logic.
+Covers:
+
+* Generating **random numbers**
+* Applying simple number-based logic
+
+---
 
 ### 🔹 MathClassDemo.java
 
-Uses important **Math class methods** like:
+Uses important **Math class methods**:
 
 * `Math.max()`
 * `Math.min()`
@@ -95,26 +125,41 @@ Uses important **Math class methods** like:
 * `Math.round()`
 * `Math.pow()`
 
+---
+
 ### 🔹 CompoundInterestCalculator.java
 
-Calculates **compound interest** using:
+Mini financial calculator that:
 
-* User input
-* Mathematical formula
-* `Math.pow()`
+* Takes **principal, rate, and time** as input
+* Uses **compound interest formula** with `Math.pow()`
+* Displays **final amount and interest earned**
+* Demonstrates real-world mathematical application
+
+---
 
 ### 🔹 MadLibsGame.java
 
-Interactive mini project using **strings + user input** to create a story.
+Interactive mini project that:
+
+* Takes multiple words as input
+* Builds a **funny/custom story**
+* Demonstrates practical use of **strings + user input**
+
+---
 
 ### 🔹 ShoppingCart.java
 
-Console mini project that:
+Console-based mini project that:
 
-* Takes **item, price, and quantity**
-* Calculates **total cost**
-* Displays result in **₹ currency**
-* Demonstrates real-life calculation logic
+* Takes **item name, price, and quantity**
+* Calculates **total purchase cost**
+* Displays result with **₹ currency**
+* Demonstrates real-life calculation using:
+
+  * Scanner input
+  * Arithmetic operators
+  * Output formatting
 
 ---
 
@@ -126,27 +171,28 @@ Console mini project that:
 
 ---
 
-## 🎯 Goal
+## 🎯 Learning Goal
 
-My goal is to:
+My goal with this repository is to:
 
-* Learn Java fundamentals step by step
-* Practice coding daily
-* Improve problem-solving skills
-* Build strong programming basics
-* Create small Java projects
+* Learn **Java fundamentals step by step**
+* Practice **daily coding**
+* Improve **problem-solving skills**
+* Build **strong programming basics**
+* Create **small real-world console projects**
 
 ---
 
 ## 🚀 Future Plans
 
-I will add:
+I will continue adding:
 
-* Loops (for, while, do-while)
+* Comparison & logical operators
+* **Loops** (for, while, do-while)
 * Methods and functions
-* Arrays & strings in depth
+* Arrays & advanced string handling
 * Object-Oriented Programming (OOP)
-* More mini Java projects
+* More mini Java projects and challenges
 
 ---
 
