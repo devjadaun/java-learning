@@ -13,8 +13,9 @@ This repo contains beginner-friendly Java programs with proper comments, example
 ✔ Variables & Data Types
 ✔ Primitive Data Types (int, double, char, boolean)
 ✔ String (Reference Data Type)
+✔ String Methods
 ✔ If Statement & Conditions
-✔ **Nested If Conditions**
+✔ Nested If Conditions
 ✔ Basic Output Formatting
 ✔ User Input Using Scanner
 ✔ Arithmetic Operators
@@ -63,55 +64,57 @@ Covers:
 
 Covers:
 
-* **Nested decision making** using an if statement inside another if
+* **Nested decision making** using an if inside another if
 * Multiple condition checking
-* Real-life style logical branching
-* Foundation for complex program logic
+* Logical branching in programs
+
+### 🔹 StringMethod.java
+
+Demonstrates commonly used **String methods** in Java:
+
+* `length()`
+* `charAt()`
+* `indexOf()` and `lastIndexOf()`
+* `toUpperCase()` and `toLowerCase()`
+* `trim()` and `replace()`
+* `isEmpty()`, `contains()`, `equalsIgnoreCase()`
+
+Helps understand **string processing and validation logic**.
 
 ### 🔹 RandomNumber.java
 
-Covers:
-
-* Generating **random numbers**
-* Simple number-based logic
+Covers generating **random numbers** and simple logic.
 
 ### 🔹 MathClassDemo.java
 
-Covers:
+Uses important **Math class methods** like:
 
-* Using **Math class methods** such as:
-
-  * `Math.max()`
-  * `Math.min()`
-  * `Math.sqrt()`
-  * `Math.round()`
-  * `Math.pow()`
+* `Math.max()`
+* `Math.min()`
+* `Math.sqrt()`
+* `Math.round()`
+* `Math.pow()`
 
 ### 🔹 CompoundInterestCalculator.java
 
-Mini program that:
+Calculates **compound interest** using:
 
-* Takes **principal, rate, and time** as input
-* Uses **Math.pow()** to calculate compound interest
-* Displays **final amount and interest earned**
-* Demonstrates real-world financial calculation using Java
+* User input
+* Mathematical formula
+* `Math.pow()`
 
 ### 🔹 MadLibsGame.java
 
-Interactive mini project that:
-
-* Takes multiple words as input
-* Builds a funny/custom story
-* Demonstrates practical use of **strings and user input**
+Interactive mini project using **strings + user input** to create a story.
 
 ### 🔹 ShoppingCart.java
 
 Console mini project that:
 
-* Takes **item, price, and quantity** from the user
+* Takes **item, price, and quantity**
 * Calculates **total cost**
-* Displays purchase summary with **₹ currency**
-* Demonstrates Scanner input, arithmetic operations, and formatting
+* Displays result in **₹ currency**
+* Demonstrates real-life calculation logic
 
 ---
 
