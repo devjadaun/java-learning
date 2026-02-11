@@ -177,6 +177,19 @@ Menu-driven utility program that:
 
 ---
 
+### 🔹 TernaryOperator.java
+Program that demonstrates use of the **ternary operator (`? :`)**:
+
+- Returns values based on **conditions**
+- Examples include:
+  - Pass or Fail result
+  - Even or Odd number check
+  - AM/PM time detection
+  - Tax rate calculation
+- Shows a **short and clean alternative to if-else statements**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
