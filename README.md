@@ -229,6 +229,20 @@ Console-based calculator program that:
 
 ---
 
+### 🔹 LogicalOperators.java
+Program demonstrating **logical operators in Java**:
+
+- Uses:
+  - AND `&&`
+  - OR `||`
+  - NOT `!`
+- Applies conditions to:
+  - **Weather evaluation example**
+  - **Username validation rules**
+- Demonstrates **real-world decision making and input validation**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
