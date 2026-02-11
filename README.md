@@ -190,6 +190,19 @@ Program that demonstrates use of the **ternary operator (`? :`)**:
 
 ---
 
+### 🔹 TemperatureConverter.java
+Console program that:
+
+- Accepts **temperature value and target unit (C/F)**
+- Uses **ternary operator** for conversion logic
+- Converts:
+  - Fahrenheit → Celsius
+  - Celsius → Fahrenheit
+- Displays formatted result using **printf**
+- Demonstrates **real-world unit conversion with conditional logic**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
