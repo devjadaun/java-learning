@@ -214,6 +214,21 @@ Program demonstrating **Java enhanced switch expression**:
 
 ---
 
+### 🔹 Calculator.java
+Console-based calculator program that:
+
+- Accepts **two numbers and an operator**
+- Supports operations:
+  - Addition `+`
+  - Subtraction `-`
+  - Multiplication `*`
+  - Division `/` (with zero-division check)
+  - Power `^` using `Math.pow()`
+- Uses **enhanced switch statement** for clean logic
+- Displays **formatted result like a real calculator**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
