@@ -203,6 +203,17 @@ Console program that:
 
 ---
 
+### 🔹 EnhancedSwitch.java
+Program demonstrating **Java enhanced switch expression**:
+
+- Accepts **day of the week** as input
+- Uses **modern switch syntax (`->`)** instead of long if-else chains
+- Groups multiple cases (weekdays vs weekend)
+- Includes **input normalization and validation**
+- Shows cleaner and more readable decision-making in Java
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
