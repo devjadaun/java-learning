@@ -268,6 +268,16 @@ Interactive **number guessing game** that:
 
 ---
 
+### 🔹 ForLoop.java
+Demonstrates **for loop usage**:
+
+- Prints numbers from **1 to user limit**
+- Performs a **simple countdown**
+- Includes **input validation**
+- Beginner-friendly example of **fixed-iteration loops**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
