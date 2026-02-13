@@ -257,6 +257,17 @@ Program demonstrating **while and do-while loops** in Java:
 
 ---
 
+### 🔹 NumberGuess.java
+Interactive **number guessing game** that:
+
+- Generates a **random number between 1 and 100**
+- Uses a **do-while loop** for repeated guesses
+- Gives hints (**too low / too high**)
+- Counts **total attempts**
+- Demonstrates **loops, conditionals, and randomness** in Java
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
