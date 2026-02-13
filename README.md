@@ -243,6 +243,20 @@ Program demonstrating **logical operators in Java**:
 
 ---
 
+### 🔹 WhileLoop.java
+Program demonstrating **while and do-while loops** in Java:
+
+- Repeats input until **valid name is entered**
+- Game loop that exits when user presses **Q**
+- Validates **age input (no negative values)**
+- Shows difference between:
+  - `while` loop
+  - `do-while` loop
+- Includes **range checking (1–10)**
+- Demonstrates **real-world input validation using loops**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
