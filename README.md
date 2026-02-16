@@ -278,6 +278,16 @@ Demonstrates **for loop usage**:
 
 ---
 
+### 🔹 BreakAndContinue.java
+Program demonstrating **loop control statements**:
+
+- `break` → stops the loop completely
+- `continue` → skips current iteration and continues loop
+- Shows difference using **for loop examples**
+- Helps understand **loop flow control in Java**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
