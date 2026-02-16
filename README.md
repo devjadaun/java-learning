@@ -314,6 +314,18 @@ Program demonstrating **methods in Java**:
 
 ---
 
+### 🔹 Overloaded.java
+Program demonstrating **method overloading in Java**:
+
+- Multiple methods with the **same name but different parameters**
+- Shows overloading using:
+  - `add()` with 2, 3, and 4 numbers
+  - `bakePizza()` with different ingredient combinations
+- Explains **method signature = name + parameters**
+- Important foundation for **polymorphism in OOP**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
