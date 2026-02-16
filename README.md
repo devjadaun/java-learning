@@ -288,6 +288,19 @@ Program demonstrating **loop control statements**:
 
 ---
 
+### 🔹 NestedLoop.java
+Program demonstrating **nested loops and pattern printing**:
+
+- Prints numbers in **row–column format**
+- Accepts **rows, columns, and symbol** from user
+- Generates a **rectangle pattern using nested loops**
+- Shows:
+  - Outer loop → rows
+  - Inner loop → columns
+- Foundation for **pattern problems and matrix logic**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
