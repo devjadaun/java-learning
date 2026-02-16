@@ -301,6 +301,19 @@ Program demonstrating **nested loops and pattern printing**:
 
 ---
 
+### 🔹 Methods.java
+Program demonstrating **methods in Java**:
+
+- Creation and calling of **custom methods**
+- Includes:
+  - `void` method (`happyBirthday`)
+  - Return methods (`square`, `cube`, `getFullName`)
+  - Boolean validation method (`ageCheck`)
+- Shows **parameters, return values, and reusable logic**
+- Foundation for **modular programming and OOP**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA

@@ -1,0 +1,57 @@
+public class Methods {
+    public static void main(String[] args){
+
+        String name = "Bro";
+        int age = 25;
+
+        happyBirthday(name, age);
+
+        System.out.println();
+
+        double result = square(3);
+        System.out.println("Square is: " + result);
+
+        System.out.println();
+
+        double cube = cube(2);
+        System.out.println("Cube is: " + cube);
+
+        System.out.println();
+
+        String fullName = getFullName("Dev", "Thakur");
+        System.out.println(fullName);
+
+        System.out.println();
+
+        int age1 = 21;
+
+        if (ageCheck(age1)){
+            System.out.println("You may sign up!");
+        } else {
+            System.out.println("You must be 18+ to sign up!");
+        }
+    }
+
+    static void happyBirthday(String name, int age){
+        System.out.println("Happy Birthday to you!");
+        System.out.printf("Happy Birthday dear %s!\n", name);
+        System.out.printf("You are %d years old!\n", age);
+        System.out.println("Happy Birthday to you\n");
+    }
+
+    static double square(double num){
+        return num * num;
+    }
+
+    static double cube(double number){
+        return number * number * number;
+    }
+
+    static String getFullName(String first, String last){
+        return first + " " + last;
+    }
+
+    static boolean ageCheck(int age){
+        return age >= 18;
+    }
+}
