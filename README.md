@@ -355,6 +355,23 @@ Console-based **banking system application**:
 
 ---
 
+### 🔹 DiceRoller.java
+Console-based **dice rolling simulator**:
+
+- Takes number of dice as input
+- Generates random values (1–6) for each die
+- Displays **ASCII representation of dice faces**
+- Calculates total of all rolls
+- Demonstrates:
+  - Random number generation
+  - Loops
+  - Methods
+  - Visual output formatting
+
+This project simulates a **real dice rolling experience in the console**.
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
