@@ -326,6 +326,18 @@ Program demonstrating **method overloading in Java**:
 
 ---
 
+### 🔹 VariableScope.java
+Program demonstrating **variable scope in Java**:
+
+- Shows difference between:
+  - Local variables
+  - Class (static) variables
+- Demonstrates how **local variables override class variables**
+- Uses same variable name in different scopes to explain behavior
+- Important concept for understanding **memory and program structure**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA

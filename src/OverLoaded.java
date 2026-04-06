@@ -1,4 +1,4 @@
-public class Overloaded {
+public class OverLoaded {
     public static void main(String[] args){
 
         // Method overloading = same method name, different parameters
