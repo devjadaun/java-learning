@@ -338,6 +338,23 @@ Program demonstrating **variable scope in Java**:
 
 ---
 
+### 🔹 BankingProgram.java
+Console-based **banking system application**:
+
+- Menu-driven program using **while loop**
+- Features:
+  - Show balance
+  - Deposit money
+  - Withdraw money
+  - Exit system
+- Includes:
+  - Input validation
+  - Balance checks (no overdraft)
+  - Modular design using methods
+- Demonstrates **real-world application logic in Java**
+
+---
+
 ## 🛠 Tools Used
 
 * IntelliJ IDEA
