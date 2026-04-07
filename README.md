@@ -1,9 +1,9 @@
 # ☕ Java Learning Journey
 
 Hi 👋
-I am learning **Java Programming** step by step and documenting my progress by pushing code to this repository.
+I am learning **Java Programming** step by step and documenting my journey by pushing code to this repository.
 
-This repository contains **beginner → intermediate level Java programs**, including **fundamentals, logic building, and real-world console mini-projects**.
+This repository contains **beginner → intermediate level Java programs**, covering **fundamentals, problem-solving, and real-world console applications**.
 
 ---
 
@@ -31,8 +31,8 @@ This repository contains **beginner → intermediate level Java programs**, incl
 ### 🔹 Core Basics
 
 * **Main.java** → First Java program
-* **Variable.java** → Data types & variables
-* **Userinput.java** → Scanner input handling
+* **Variable.java** → Variables & data types
+* **Userinput.java** → User input using Scanner
 
 ---
 
@@ -48,17 +48,17 @@ This repository contains **beginner → intermediate level Java programs**, incl
 
 ### 🔹 String Handling
 
-* **StringMethod.java** → Built-in string methods
+* **StringMethod.java** → Common string methods
 * **Substrings.java** → Email parsing using substring
 
 ---
 
 ### 🔹 Math & Utilities
 
-* **ArithmeticDemo.java** → Basic operators
-* **MathClassDemo.java** → Java Math methods
+* **ArithmeticDemo.java** → Arithmetic operations
+* **MathClassDemo.java** → Math functions
 * **RandomNumber.java** → Random number generation
-* **CompoundInterestCalculator.java** → Financial calculation
+* **CompoundInterestCalculator.java** → Financial calculations
 * **WeightConverter.java** → Unit conversion
 * **TemperatureConverter.java** → Temperature conversion
 
@@ -69,30 +69,30 @@ This repository contains **beginner → intermediate level Java programs**, incl
 * **WhileLoop.java** → while & do-while loops
 * **ForLoop.java** → fixed iteration loops
 * **BreakAndContinue.java** → loop control statements
-* **NestedLoop.java** → pattern & matrix logic
+* **NestedLoop.java** → pattern printing & matrix logic
 
 ---
 
 ### 🔹 Methods & Core Concepts
 
-* **Methods.java** → functions, parameters, return values
-* **Overloaded.java** → method overloading
-* **VariableScope.java** → local vs global variables
+* **Methods.java** → Functions, parameters, return values
+* **Overloaded.java** → Method overloading
+* **VariableScope.java** → Scope of variables
 
 ---
 
 ### 🔹 Mini Projects 🚀
 
-* **MadLibsGame.java** → interactive story generator
-* **ShoppingCart.java** → cart total calculator
-* **Calculator.java** → multi-operation calculator
-* **NumberGuess.java** → guessing game with attempts
-* **DiceRoller.java** → dice simulator with ASCII visuals
-* **BankingProgram.java** → menu-driven banking system
+* **MadLibsGame.java** → Interactive story generator
+* **ShoppingCart.java** → Shopping cart calculator
+* **Calculator.java** → Multi-operation calculator
+* **NumberGuess.java** → Number guessing game
+* **DiceRoller.java** → Dice simulator with ASCII visuals
+* **BankingProgram.java** → Menu-driven banking system
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
 * IntelliJ IDEA
 * Java JDK
@@ -104,18 +104,18 @@ This repository contains **beginner → intermediate level Java programs**, incl
 
 * Build strong **Java fundamentals**
 * Improve **problem-solving skills**
-* Practice **clean and structured coding**
-* Create **real-world console applications**
-* Prepare for **DSA & OOP concepts**
+* Write **clean and structured code**
+* Develop **real-world console applications**
+* Prepare for **DSA & Object-Oriented Programming (OOP)**
 
 ---
 
-## 🚀 What’s Next
+## 🚀 What's Next
 
 I will continue learning and adding:
 
 * Arrays & 2D Arrays
-* Searching & Sorting
+* Searching & Sorting Algorithms
 * Object-Oriented Programming (OOP)
 * Exception Handling
 * File Handling
@@ -132,10 +132,10 @@ If you like this repository:
 
 ---
 
-### 💡 Note
+## 💡 Note
 
 This repository represents my **daily Java learning progress**.
-Each program reflects improvement in **logic, structure, and problem-solving ability**.
+Each program reflects improvement in **logic, structure, and coding practices**.
 
 ---
 
