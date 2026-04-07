@@ -1,7 +1,7 @@
 # ☕ Java Learning Journey
 
 Hi 👋
-I am learning **Java Programming** step by step and documenting my journey by pushing code to this repository.
+I am learning **Java Programming** step by step and documenting my progress by pushing code to this repository.
 
 This repository contains **beginner → intermediate level Java programs**, covering **fundamentals, problem-solving, and real-world console applications**.
 
@@ -22,6 +22,7 @@ This repository contains **beginner → intermediate level Java programs**, cove
 ✔ Methods & Method Overloading
 ✔ Variable Scope
 ✔ Random Numbers & Math Class
+✔ Arrays & Dynamic Input
 ✔ Real-world Logic Building
 
 ---
@@ -75,20 +76,27 @@ This repository contains **beginner → intermediate level Java programs**, cove
 
 ### 🔹 Methods & Core Concepts
 
-* **Methods.java** → Functions, parameters, return values
-* **Overloaded.java** → Method overloading
-* **VariableScope.java** → Scope of variables
+* **Methods.java** → functions, parameters, return values
+* **Overloaded.java** → method overloading
+* **VariableScope.java** → scope of variables
+
+---
+
+### 🔹 Arrays (DSA Foundation) 🚀
+
+* **ArraysMain.java** → array basics, looping, sorting
+* **InputInArray.java** → dynamic array input using Scanner
 
 ---
 
 ### 🔹 Mini Projects 🚀
 
-* **MadLibsGame.java** → Interactive story generator
-* **ShoppingCart.java** → Shopping cart calculator
-* **Calculator.java** → Multi-operation calculator
-* **NumberGuess.java** → Number guessing game
-* **DiceRoller.java** → Dice simulator with ASCII visuals
-* **BankingProgram.java** → Menu-driven banking system
+* **MadLibsGame.java** → interactive story generator
+* **ShoppingCart.java** → shopping cart calculator
+* **Calculator.java** → multi-operation calculator
+* **NumberGuess.java** → number guessing game
+* **DiceRoller.java** → dice simulator with ASCII visuals
+* **BankingProgram.java** → menu-driven banking system
 
 ---
 
@@ -114,8 +122,9 @@ This repository contains **beginner → intermediate level Java programs**, cove
 
 I will continue learning and adding:
 
-* Arrays & 2D Arrays
+* Advanced Array Problems
 * Searching & Sorting Algorithms
+* 2D Arrays
 * Object-Oriented Programming (OOP)
 * Exception Handling
 * File Handling
