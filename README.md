@@ -23,6 +23,7 @@ This repository contains **beginner → intermediate level Java programs**, cove
 ✔ Variable Scope
 ✔ Random Numbers & Math Class
 ✔ Arrays & Dynamic Input
+✔ Searching Algorithms (Linear Search)
 ✔ Real-world Logic Building
 
 ---
@@ -86,6 +87,7 @@ This repository contains **beginner → intermediate level Java programs**, cove
 
 * **ArraysMain.java** → array basics, looping, sorting
 * **InputInArray.java** → dynamic array input using Scanner
+* **ArraySearch.java** → linear search implementation
 
 ---
 
@@ -122,7 +124,7 @@ This repository contains **beginner → intermediate level Java programs**, cove
 
 I will continue learning and adding:
 
-* Advanced Array Problems
+* Advanced Array Problems (max/min, reverse, second largest)
 * Searching & Sorting Algorithms
 * 2D Arrays
 * Object-Oriented Programming (OOP)
